@@ -24,6 +24,7 @@ In the Favorite Places section, click on any place card to view more detailed in
 Use the back buttons to navigate between sections.
 
 Screenshots
+
 Home Section
 
 
@@ -33,6 +34,8 @@ Home Section
 
 
 Favorite Places Section
+
+
 <img width="550" alt="Screenshot 2024-05-29 at 8 57 16 PM" src="https://github.com/sravyaDongari/Tourism/assets/122468955/22bc7b0d-0c65-48da-957c-6eaf4c2e48e9">
 
 
